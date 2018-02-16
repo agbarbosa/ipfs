@@ -12,7 +12,7 @@ This repository is a landing repository for IPFS in general, and where any big u
 
 Please contribute to the various [implementations](README.md#implementations) under development, or start another!
 
-There are also many other repositories that are part of IPFS, listed in the [project directory](https://github.com/ipfs/ipfs/blob/master/project-directory.md). Dive in and help out.
+There are also many other repositories that are part of IPFS, listed in the [project directory](https://github.com/ipfs/ipfs#project-directory). Dive in and help out.
 
 ### Help with spreading the word
 
